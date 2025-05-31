@@ -4,6 +4,7 @@ __pycache__
 .venv
 .env
 images/*
+!images/.keep
 .coverage
 htmlcov
 *.db
